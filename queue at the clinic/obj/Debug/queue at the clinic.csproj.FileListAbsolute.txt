@@ -1,0 +1,8 @@
+C:\Users\Danii\source\repos\queue at the clinic\queue at the clinic\bin\Debug\queue at the clinic.exe.config
+C:\Users\Danii\source\repos\queue at the clinic\queue at the clinic\bin\Debug\queue at the clinic.exe
+C:\Users\Danii\source\repos\queue at the clinic\queue at the clinic\bin\Debug\queue at the clinic.pdb
+C:\Users\Danii\source\repos\queue at the clinic\queue at the clinic\obj\Debug\queue at the clinic.csproj.AssemblyReference.cache
+C:\Users\Danii\source\repos\queue at the clinic\queue at the clinic\obj\Debug\queue at the clinic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danii\source\repos\queue at the clinic\queue at the clinic\obj\Debug\queue at the clinic.csproj.CoreCompileInputs.cache
+C:\Users\Danii\source\repos\queue at the clinic\queue at the clinic\obj\Debug\queue at the clinic.exe
+C:\Users\Danii\source\repos\queue at the clinic\queue at the clinic\obj\Debug\queue at the clinic.pdb
