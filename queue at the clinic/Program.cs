@@ -17,8 +17,10 @@ namespace queue_at_the_clinic
             Console.WriteLine("Вы находитесь в поликлинике, в очереди на прием доктора, который осматривает одного человека за " + appointmentTime + " минут. Сколько людей перед собой вы видите?");
             people = Convert.ToInt32(Console.ReadLine());
             waitingTime = people * appointmentTime;
+            int hour = waitingTime / 60;
+            int minutes = waitingTime % 60;
 
-            Console.WriteLine("Вам осталость ждать всего " + waitingTime / 60 + " часа и " + waitingTime % 60 + " минут.");
+            Console.WriteLine("Вам осталость ждать всего " + hour + " часа и " + minutes + " минут.");
             Console.ReadKey();
         }
     }
